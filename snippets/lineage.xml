@@ -218,6 +218,9 @@
   <project path="lineage/website" name="LineageOS/www" groups="infra" revision="main" />
   <project path="lineage/wiki" name="LineageOS/lineage_wiki" groups="infra" revision="main" />
 
+  <!-- Other Packages -->
+  <project path="packages/apps/LMOFreeform" name="crdroidandroid/android_packages_apps_LMOFreeform" remote="github" revision="16.0" />
+
   <!-- Tools -->
   <project path="lineage/contributors-cloud-generator" name="LineageOS/contributors-cloud-generator" groups="tools" revision="main" />
   <project path="lineage/scripts" name="LineageOS/scripts" groups="tools" revision="main" />
